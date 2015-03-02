@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd "$(dirname "$0")"
 echo "It's time to create a new commit!"
 echo "42" >> answer.txt
 git add .
