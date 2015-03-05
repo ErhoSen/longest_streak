@@ -7,6 +7,6 @@ Bash script, which daily add another "answer to life the universe and everything
 #### add cron task:
     crontab -e
 
-    @daily ~/PATH/TO/CLONED/REPO/steak.sh
+    @daily your_username ~/PATH/TO/CLONED/REPO/steak.sh
 
 That's it! Have fun!
